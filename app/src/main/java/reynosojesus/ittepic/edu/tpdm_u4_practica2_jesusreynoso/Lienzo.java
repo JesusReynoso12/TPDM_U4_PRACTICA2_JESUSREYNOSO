@@ -119,7 +119,7 @@ public class Lienzo extends View {
                         contadorjefe++;
                         if(contadormoscas==30 && contadorjefe==5){
                             jefe=null;
-                            mensajeganar=2;
+                            mensajeganar=1;
                         }
                         break;
                     }
